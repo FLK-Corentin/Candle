@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Command</source>
-        <translation>Comande</translation>
+        <translation>Commande</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Etât</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Response</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Args</source>
-        <translation>Arcs</translation>
+        <translation>Args</translation>
     </message>
     <message>
         <source>In queue</source>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Skipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoré</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -52,91 +52,91 @@
     <name>Overlay</name>
     <message>
         <source>Vertices: %1</source>
-        <translation type="unfinished">Vertices: %1</translation>
+        <translation>Sommets : %1</translation>
     </message>
     <message>
         <source>Updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour...</translation>
     </message>
 </context>
 <context>
     <name>TableHistoryManager</name>
     <message>
         <source>❐</source>
-        <translation type="unfinished"></translation>
+        <translation>❐</translation>
     </message>
     <message>
         <source>✍</source>
-        <translation type="unfinished"></translation>
+        <translation>✍</translation>
     </message>
     <message>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <source>−</source>
-        <translation type="unfinished"></translation>
+        <translation>−</translation>
     </message>
 </context>
 <context>
     <name>frmAbout</name>
     <message>
         <source>About</source>
-        <translation>A propos</translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;The program is provided AS IS without any guarantees or warranty. Use at your own risk.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Le programme est fourni dans l&apos;état , sans aucune garantie. Utilisez-le à vos risques et périls&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ce logiciel est fourni TEL QUEL, sans garantie d&apos;aucune sorte. Utilisez-le à vos risques et périls.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;%1&lt;br/&gt;Version: %2&lt;br/&gt;Build: %3&lt;br/&gt;License: GNU GENERAL PUBLIC LICENSE&lt;br/&gt;Visit: &lt;a href=&quot;https://github.com/Denvi/Candle/&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;https://github.com/Denvi/Candle/&lt;br/&gt;&lt;/span&gt;&lt;/a&gt;© 2015-2026 Hayrullin Denis Ravilevich&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;%1&lt;br/&gt;Version : %2&lt;br/&gt;Compilation : %3&lt;br/&gt;Licence : GNU GENERAL PUBLIC LICENSE&lt;br/&gt;Site : &lt;a href=&quot;https://github.com/Denvi/Candle/&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;https://github.com/Denvi/Candle/&lt;br/&gt;&lt;/span&gt;&lt;/a&gt;© 2015-2026 Hayrullin Denis Ravilevich&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>frmHelp</name>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentation</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Sommaire</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Précédent</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher :</translation>
     </message>
 </context>
 <context>
     <name>frmMain</name>
     <message>
         <source>G-code program</source>
-        <translation>Programme G-Code</translation>
+        <translation>Programme G-code</translation>
     </message>
     <message>
         <source>Isometric view</source>
-        <translation>Vue isometrique</translation>
+        <translation>Vue isométrique</translation>
     </message>
     <message>
         <source>Top view</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Front view</source>
-        <translation>Vue de Face</translation>
+        <translation>Vue de face</translation>
     </message>
     <message>
         <source>Left view</source>
@@ -152,39 +152,39 @@
     </message>
     <message>
         <source>Fit</source>
-        <translation>Ajuster vue</translation>
+        <translation>Ajuster la vue</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation>Bords:</translation>
+        <translation>Bordure :</translation>
     </message>
     <message>
         <source>X:</source>
-        <translation>X:</translation>
+        <translation>X :</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation>Y :</translation>
     </message>
     <message>
         <source>Show border</source>
-        <translation>Montrer bord</translation>
+        <translation>Afficher la bordure</translation>
     </message>
     <message>
         <source>Probe grid:</source>
-        <translation>Grille de palpage:</translation>
+        <translation>Grille de palpage :</translation>
     </message>
     <message>
         <source>Zb:</source>
-        <translation>Zb:</translation>
+        <translation>Zb :</translation>
     </message>
     <message>
         <source>Zt:</source>
-        <translation>Zt:</translation>
+        <translation>Zt :</translation>
     </message>
     <message>
         <source>Interpolation grid:</source>
-        <translation>Espacement grille:</translation>
+        <translation>Grille d'interpolation :</translation>
     </message>
     <message>
         <source>Open</source>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reinitialiser</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <source>Send</source>
@@ -204,15 +204,15 @@
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abandon</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Etât</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation>Etât:</translation>
+        <translation>État :</translation>
     </message>
     <message>
         <source>Control</source>
@@ -228,11 +228,11 @@
     </message>
     <message>
         <source>Overriding</source>
-        <translation type="unfinished"></translation>
+        <translation>Correcteurs</translation>
     </message>
     <message>
         <source>Unlock</source>
-        <translation>Desbloquer</translation>
+        <translation>Débloquer</translation>
     </message>
     <message>
         <source>Heightmap</source>
@@ -240,11 +240,11 @@
     </message>
     <message>
         <source>Use heightmap</source>
-        <translation>Utiliser palpage surfacique</translation>
+        <translation>Utiliser le palpage surfacique</translation>
     </message>
     <message>
         <source>Map:</source>
-        <translation>Fichier:</translation>
+        <translation>Fichier :</translation>
     </message>
     <message>
         <source>Absent</source>
@@ -260,167 +260,167 @@
     </message>
     <message>
         <source>Speed:</source>
-        <translation>Vitesse:</translation>
+        <translation>Vitesse :</translation>
     </message>
     <message>
         <source>Spindle on/off</source>
-        <translation>Broche on/off</translation>
+        <translation>Marche/arrêt broche</translation>
     </message>
     <message>
         <source>Jog</source>
-        <translation>Contrôle manuel</translation>
+        <translation>Déplacement manuel</translation>
     </message>
     <message>
         <source>Step:</source>
-        <translation>Pas:</translation>
+        <translation>Pas :</translation>
     </message>
     <message>
         <source>500</source>
-        <translation type="unfinished">500</translation>
+        <translation>500</translation>
     </message>
     <message>
         <source>50</source>
-        <translation type="unfinished">50</translation>
+        <translation>50</translation>
     </message>
     <message>
         <source>Candle</source>
-        <translation type="unfinished"></translation>
+        <translation>Candle</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>Programme</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Affichage</translation>
     </message>
     <message>
         <source>&amp;Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fenêtres</translation>
     </message>
     <message>
         <source>&amp;Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Panneaux</translation>
     </message>
     <message>
         <source>Modification</source>
-        <translation type="unfinished"></translation>
+        <translation>Modification</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"></translation>
+        <translation>H :</translation>
     </message>
     <message>
         <source>W:</source>
-        <translation type="unfinished"></translation>
+        <translation>L :</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>F:</source>
-        <translation type="unfinished"></translation>
+        <translation>F :</translation>
     </message>
     <message>
         <source>Show probe grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la grille de palpage</translation>
     </message>
     <message>
         <source>Show interpolation grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la grille d'interpolation</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Appareil</translation>
     </message>
     <message>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <source>Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Z</translation>
     </message>
     <message>
         <source>Flood</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrosage</translation>
     </message>
     <message>
         <source>X+</source>
-        <translation type="unfinished"></translation>
+        <translation>X+</translation>
     </message>
     <message>
         <source>X-</source>
-        <translation type="unfinished"></translation>
+        <translation>X-</translation>
     </message>
     <message>
         <source>Y-</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Y+</source>
-        <translation type="unfinished"></translation>
+        <translation>Y+</translation>
     </message>
     <message>
         <source>Z+</source>
-        <translation type="unfinished"></translation>
+        <translation>Z+</translation>
     </message>
     <message>
         <source>Z-</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-</translation>
     </message>
     <message>
         <source>Continuously</source>
-        <translation type="unfinished"></translation>
+        <translation>Continu</translation>
     </message>
     <message>
         <source>0.01</source>
-        <translation type="unfinished">0.01</translation>
+        <translation>0.01</translation>
     </message>
     <message>
         <source>0.1</source>
-        <translation type="unfinished">0.1</translation>
+        <translation>0.1</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">5</translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished">10</translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished">100</translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>Feed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avance :</translation>
     </message>
     <message>
         <source>1000</source>
-        <translation type="unfinished">1000</translation>
+        <translation>1000</translation>
     </message>
     <message>
         <source>2000</source>
-        <translation type="unfinished">2000</translation>
+        <translation>2000</translation>
     </message>
     <message>
         <source>Keyboard control</source>
@@ -428,7 +428,7 @@
     </message>
     <message>
         <source>Visualizer</source>
-        <translation type="unfinished">Apparence</translation>
+        <translation>Aperçu 3D</translation>
     </message>
     <message>
         <source>Console</source>
@@ -440,79 +440,79 @@
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Effacer consôle</translation>
+        <translation>Effacer la console</translation>
     </message>
     <message>
         <source>Spindle speed +</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse broche +</translation>
     </message>
     <message>
         <source>Spindle speed -</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse broche -</translation>
     </message>
     <message>
         <source>Jog step next</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas suivant</translation>
     </message>
     <message>
         <source>Jog step previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas précédent</translation>
     </message>
     <message>
         <source>Jog feed next</source>
-        <translation type="unfinished"></translation>
+        <translation>Avance suivante</translation>
     </message>
     <message>
         <source>Jog feed previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Avance précédente</translation>
     </message>
     <message>
         <source>Feed override +</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction avance +</translation>
     </message>
     <message>
         <source>Feed override -</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction avance -</translation>
     </message>
     <message>
         <source>Rapid override +</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction rapide +</translation>
     </message>
     <message>
         <source>Rapid override -</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction rapide -</translation>
     </message>
     <message>
         <source>Spindle override +</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction broche +</translation>
     </message>
     <message>
         <source>Spindle override -</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction broche -</translation>
     </message>
     <message>
         <source>Feed override</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction avance</translation>
     </message>
     <message>
         <source>Rapid speed override</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction vitesse rapide</translation>
     </message>
     <message>
         <source>Spindle speed override</source>
-        <translation type="unfinished"></translation>
+        <translation>Correction vitesse broche</translation>
     </message>
     <message>
         <source>&amp;Lock windows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verrouiller les fenêtres</translation>
     </message>
     <message>
         <source>L&amp;ock panels</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;errouiller les panneaux</translation>
     </message>
     <message>
         <source>&amp;Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Documentation</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -520,7 +520,7 @@
     </message>
     <message>
         <source>&amp;Recent files</source>
-        <translation>&amp;Fichiers recents</translation>
+        <translation>&amp;Fichiers récents</translation>
     </message>
     <message>
         <source>&amp;Service</source>
@@ -532,19 +532,19 @@
     </message>
     <message>
         <source>_spacerTop</source>
-        <translation type="unfinished"></translation>
+        <translation>_spacerTop</translation>
     </message>
     <message>
         <source>_spacerLeft</source>
-        <translation type="unfinished"></translation>
+        <translation>_spacerLeft</translation>
     </message>
     <message>
         <source>_spacerRight</source>
-        <translation type="unfinished"></translation>
+        <translation>_spacerRight</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisateur</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -556,7 +556,7 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Reglages</translation>
+        <translation>&amp;Réglages</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;A propos de</translation>
+        <translation>&amp;À propos</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -580,11 +580,11 @@
     </message>
     <message>
         <source>Save &amp;transformed as...</source>
-        <translation>Sauvez &amp;transformé comme...</translation>
+        <translation>Enregistrer la version trans&amp;formée sous...</translation>
     </message>
     <message>
         <source>Idle</source>
-        <translation>Idle</translation>
+        <translation>Repos</translation>
     </message>
     <message>
         <source>Alarm</source>
@@ -592,19 +592,19 @@
     </message>
     <message>
         <source>Run</source>
-        <translation>Demarrer</translation>
+        <translation>Marche</translation>
     </message>
     <message>
         <source>Hold</source>
-        <translation>Stop</translation>
+        <translation>Suspendu</translation>
     </message>
     <message>
         <source>Queue</source>
-        <translation>En attente</translation>
+        <translation>En file</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation>Vérifié</translation>
+        <translation>Vérification</translation>
     </message>
     <message>
         <source>Door</source>
@@ -616,98 +616,101 @@
     </message>
     <message>
         <source>Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Veille</translation>
     </message>
     <message>
         <source>Feed rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse d'avance :</translation>
     </message>
     <message>
         <source>Rapid speed:</source>
-        <translation type="unfinished">Vitesse d&apos;approche:</translation>
+        <translation>Vitesse d'approche :</translation>
     </message>
     <message>
         <source>Spindle speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse broche :</translation>
     </message>
     <message>
         <source>&amp;Insert line</source>
-        <translation>&amp;Inserer ligne</translation>
+        <translation>&amp;Insérer une ligne</translation>
     </message>
     <message>
         <source>&amp;Delete lines</source>
-        <translation>&amp;Effacer ligne</translation>
+        <translation>&amp;Supprimer les lignes</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne plus afficher</translation>
     </message>
     <message>
         <source>G-Code files (*.nc *.ncc *.ngc *.tap *.txt *.gcode)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers G-code (*.nc *.ncc *.ngc *.tap *.txt *.gcode)</translation>
     </message>
     <message>
         <source>G-Code files (*.nc *.ncc *.ngc *.tap *.txt *.gcode);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers G-code (*.nc *.ncc *.ngc *.tap *.txt *.gcode);;Tous les fichiers (*.*)</translation>
     </message>
     <message>
         <source>PS: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>PS : %1</translation>
     </message>
     <message>
         <source>AS: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>AS : %1</translation>
     </message>
     <message>
         <source>F/S: %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>F/S : %1 / %2</translation>
     </message>
     <message>
         <source>Error message(s) received:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Message(s) d&apos;erreur reçu(s) :
+</translation>
     </message>
     <message>
         <source>Change tool and press &apos;Pause&apos; button to continue job</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez l&apos;outil puis appuyez sur &apos;Pause&apos; pour continuer</translation>
     </message>
     <message>
         <source>M6 command detected. Send tool change commands?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Commande M6 détectée. Envoyer les commandes de changement d&apos;outil ?
+</translation>
     </message>
     <message>
         <source>Buffer: %1 / %2 / %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampon : %1 / %2 / %3</translation>
     </message>
     <message>
         <source>Following commands will be sent before selected line:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Les commandes suivantes seront envoyées avant la ligne sélectionnée :
+</translation>
     </message>
     <message>
         <source>Applying heightmap...</source>
-        <translation type="unfinished"></translation>
+        <translation>Application du palpage...</translation>
     </message>
     <message>
         <source>Subdividing segments...</source>
-        <translation type="unfinished"></translation>
+        <translation>Subdivision des segments...</translation>
     </message>
     <message>
         <source>Updating Z-coordinates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour des coordonnées Z...</translation>
     </message>
     <message>
         <source>Modifying G-code program...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modification du programme G-code...</translation>
     </message>
     <message>
         <source>G-code program file was changed. Save?</source>
-        <translation>Le programme G-code à changé. Sauvegarder?</translation>
+        <translation>Le programme G-code a changé. Enregistrer ?</translation>
     </message>
     <message>
         <source>Heightmap file was changed. Save?</source>
-        <translation>Le fichier surface de palpage a changé. Sauvegarder?</translation>
+        <translation>Le fichier de palpage a changé. Enregistrer ?</translation>
     </message>
     <message>
         <source>Not connected</source>
@@ -721,7 +724,7 @@
         <source>Job done.
 Time elapsed: %1</source>
         <translation>Travail terminé.
-Temps écoulé: %1</translation>
+Temps écoulé : %1</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -729,29 +732,29 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>File sending in progress. Terminate and exit?</source>
-        <translation>Envoi de fichier en cours. Terminer et Sortir?</translation>
+        <translation>Envoi du fichier en cours. Arrêter et quitter ?</translation>
     </message>
     <message>
         <source>Heightmap files (*.map)</source>
-        <translation>Fichier de palpage (*.map)</translation>
+        <translation>Fichiers de palpage (*.map)</translation>
     </message>
     <message>
         <source>Port opened</source>
-        <translation>Le port s&apos;est ouvert</translation>
+        <translation>Port ouvert</translation>
     </message>
     <message>
         <source>Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouverture du fichier...</translation>
     </message>
     <message>
         <source>Can&apos;t open file:
 </source>
-        <translation>Impossible d&apos;ouvrir du fichier:
+        <translation>Impossible d&apos;ouvrir le fichier :
 </translation>
     </message>
     <message>
         <source>Delete lines?</source>
-        <translation>Effacer ligne?</translation>
+        <translation>Supprimer les lignes ?</translation>
     </message>
     <message>
         <source> (%1)</source>
@@ -767,232 +770,232 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source> (%1/%2/%3)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source> (%1/%2)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>Changing grid settings will reset probe data. Continue?</source>
-        <translation>Changer les paramètres de la grille, réinitialise les données de palpage. Continuer?</translation>
+        <translation>Modifier les paramètres de la grille réinitialisera les données de palpage. Continuer ?</translation>
     </message>
     <message>
         <source>Perspective view</source>
-        <translation type="unfinished"></translation>
+        <translation>Vue en perspective</translation>
     </message>
     <message>
         <source>&amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Journal</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Script</translation>
     </message>
     <message>
         <source>Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Journal</translation>
     </message>
     <message>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Recharger</translation>
     </message>
     <message>
         <source>Move toolhead to heightmap origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer l&apos;outil vers l&apos;origine du palpage</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <source>Origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Origine :</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <source>Bicubic</source>
-        <translation type="unfinished"></translation>
+        <translation>Bicubique</translation>
     </message>
     <message>
         <source>Show origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;origine</translation>
     </message>
     <message>
         <source>Use current toolhead position</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la position actuelle de l&apos;outil</translation>
     </message>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Outil</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Défaut</translation>
     </message>
     <message>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profils</translation>
     </message>
     <message>
         <source>Enter profile name</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du profil</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Créer</translation>
     </message>
     <message>
         <source>Profile &apos;%1&apos; already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Le profil &apos;%1&apos; existe déjà</translation>
     </message>
     <message>
         <source>Machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Machine</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Pièce</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>A+</source>
-        <translation type="unfinished"></translation>
+        <translation>A+</translation>
     </message>
     <message>
         <source>A-</source>
-        <translation type="unfinished"></translation>
+        <translation>A-</translation>
     </message>
     <message>
         <source>Connection error </source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de connexion </translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Importer</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exporter</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Select profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner les profils</translation>
     </message>
     <message>
         <source>Profile &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le profil &apos;%1&apos; existe déjà. Remplacer ?</translation>
     </message>
     <message>
         <source>Profiles (*.cpr)</source>
-        <translation type="unfinished"></translation>
+        <translation>Profils (*.cpr)</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentation</translation>
     </message>
     <message>
         <source>From Line</source>
-        <translation type="unfinished"></translation>
+        <translation>À partir de la ligne</translation>
     </message>
     <message>
         <source>Sending file from SD card completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoi du fichier depuis la carte SD terminé</translation>
     </message>
     <message>
         <source>&amp;Copy lines</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copier les lignes</translation>
     </message>
     <message>
         <source>&amp;Paste lines</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Coller les lignes</translation>
     </message>
     <message>
         <source>&amp;Cut lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Co&amp;uper les lignes</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rétablir</translation>
     </message>
     <message>
         <source>&lt;span style=&quot;color:#ff0000;&quot;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:#ff0000;&quot;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>[%1] </source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] </translation>
     </message>
     <message>
         <source> [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation> [%1]</translation>
     </message>
     <message>
         <source>Updating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour...</translation>
     </message>
 </context>
 <context>
     <name>frmScript</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Ouvrir</translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer</translation>
     </message>
     <message>
         <source>Script files (*.js)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers script (*.js)</translation>
     </message>
     <message>
         <source>Can&apos;t open file:
 </source>
-        <translation type="unfinished">Impossible d&apos;ouvrir du fichier:
+        <translation>Impossible d&apos;ouvrir le fichier :
 </translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Script was changed. Save?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le script a été modifié. Enregistrer ?</translation>
     </message>
     <message>
         <source>Save file as</source>
-        <translation type="unfinished">Enregistrer le fichier sous</translation>
+        <translation>Enregistrer le fichier sous</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Déboguer</translation>
     </message>
 </context>
 <context>
@@ -1007,27 +1010,27 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation>Port :</translation>
     </message>
     <message>
         <source>Baud:</source>
-        <translation>Baud:</translation>
+        <translation>Baud :</translation>
     </message>
     <message>
         <source>Spindle speed min.:</source>
-        <translation>Vitesse broche min.:</translation>
+        <translation>Vitesse broche min. :</translation>
     </message>
     <message>
         <source>max.:</source>
-        <translation>max.:</translation>
+        <translation>max. :</translation>
     </message>
     <message>
         <source>Visualizer</source>
-        <translation>Apparence</translation>
+        <translation>Visualisation</translation>
     </message>
     <message>
         <source>Line width:</source>
-        <translation>Espaisseur de ligne:</translation>
+        <translation>Épaisseur de ligne :</translation>
     </message>
     <message>
         <source>Smoothing</source>
@@ -1039,15 +1042,15 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Simplify geometry</source>
-        <translation>Simplifier la geometrie</translation>
+        <translation>Simplifier la géométrie</translation>
     </message>
     <message>
         <source>FPS lock:</source>
-        <translation>Bloquer FPS:</translation>
+        <translation>Limiter FPS :</translation>
     </message>
     <message>
         <source>Diameter:</source>
-        <translation>Diamètre:</translation>
+        <translation>Diamètre :</translation>
     </message>
     <message>
         <source>Flat</source>
@@ -1059,11 +1062,11 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Length:</source>
-        <translation>Longueur:</translation>
+        <translation>Longueur :</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte</translation>
     </message>
     <message>
         <source>Console</source>
@@ -1071,15 +1074,15 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Show G-code program commands</source>
-        <translation>Montrer commande du programme G-Code</translation>
+        <translation>Afficher les commandes du programme G-code</translation>
     </message>
     <message>
         <source>Show UI commands</source>
-        <translation>Montrer les commandes de l&apos;interface utilisateur</translation>
+        <translation>Afficher les commandes de l&apos;interface</translation>
     </message>
     <message>
         <source>Command auto-completion</source>
-        <translation>Commande Saisie auto</translation>
+        <translation>Complétion automatique des commandes</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -1087,11 +1090,11 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Z-movement:</source>
-        <translation>Mouvement Z:</translation>
+        <translation>Mouvement Z :</translation>
     </message>
     <message>
         <source>Normal:</source>
-        <translation>Normal:</translation>
+        <translation>Normal :</translation>
     </message>
     <message>
         <source>Toolpath</source>
@@ -1099,19 +1102,19 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Drawn:</source>
-        <translation>Dessin:</translation>
+        <translation>Tracé :</translation>
     </message>
     <message>
         <source>Background:</source>
-        <translation>Fond:</translation>
+        <translation>Fond :</translation>
     </message>
     <message>
         <source>Status query period:</source>
-        <translation>Période de question de statut:</translation>
+        <translation>Période d&apos;interrogation de l&apos;état :</translation>
     </message>
     <message>
         <source>Precision:</source>
-        <translation>Precisión:</translation>
+        <translation>Précision :</translation>
     </message>
     <message>
         <source>Tool model</source>
@@ -1119,179 +1122,179 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Highlight:</source>
-        <translation>Souligner:</translation>
+        <translation>Surbrillance :</translation>
     </message>
     <message>
         <source>9600</source>
-        <translation type="unfinished">9600</translation>
+        <translation>9600</translation>
     </message>
     <message>
         <source>14400</source>
-        <translation type="unfinished">14400</translation>
+        <translation>14400</translation>
     </message>
     <message>
         <source>19200</source>
-        <translation type="unfinished">19200</translation>
+        <translation>19200</translation>
     </message>
     <message>
         <source>38400</source>
-        <translation type="unfinished">38400</translation>
+        <translation>38400</translation>
     </message>
     <message>
         <source>57600</source>
-        <translation type="unfinished">57600</translation>
+        <translation>57600</translation>
     </message>
     <message>
         <source>115200</source>
-        <translation type="unfinished">115200</translation>
+        <translation>115200</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Laser power min.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puissance laser min. :</translation>
     </message>
     <message>
         <source>Reference position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Position de référence :</translation>
     </message>
     <message>
         <source>X-</source>
-        <translation type="unfinished"></translation>
+        <translation>X-</translation>
     </message>
     <message>
         <source>X+</source>
-        <translation type="unfinished"></translation>
+        <translation>X+</translation>
     </message>
     <message>
         <source>Y-</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-</translation>
     </message>
     <message>
         <source>Y+</source>
-        <translation type="unfinished"></translation>
+        <translation>Y+</translation>
     </message>
     <message>
         <source>Z-</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-</translation>
     </message>
     <message>
         <source>Z+</source>
-        <translation type="unfinished"></translation>
+        <translation>Z+</translation>
     </message>
     <message>
         <source>Sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoi</translation>
     </message>
     <message>
         <source>Use program start commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser les commandes de début de programme :</translation>
     </message>
     <message>
         <source>Use program end commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser les commandes de fin de programme :</translation>
     </message>
     <message>
         <source>Use tool change commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser les commandes de changement d&apos;outil :</translation>
     </message>
     <message>
         <source>Confirm tool change commands execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer l&apos;exécution des commandes de changement d&apos;outil</translation>
     </message>
     <message>
         <source>Pause sender on M6 command</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre l&apos;envoi en pause sur commande M6</translation>
     </message>
     <message>
         <source>Ignore error responses</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer les réponses d&apos;erreur</translation>
     </message>
     <message>
         <source>Automatically set parser state before sending from selected line</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir automatiquement l&apos;état de l&apos;analyseur avant l&apos;envoi depuis la ligne sélectionnée</translation>
     </message>
     <message>
         <source>Z-buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-buffer</translation>
     </message>
     <message>
         <source>30</source>
-        <translation type="unfinished">30</translation>
+        <translation>30</translation>
     </message>
     <message>
         <source>60</source>
-        <translation type="unfinished">60</translation>
+        <translation>60</translation>
     </message>
     <message>
         <source>120</source>
-        <translation type="unfinished">120</translation>
+        <translation>120</translation>
     </message>
     <message>
         <source>Program draw mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode d&apos;affichage du programme :</translation>
     </message>
     <message>
         <source>Vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Vecteurs</translation>
     </message>
     <message>
         <source>Raster</source>
-        <translation type="unfinished"></translation>
+        <translation>Trame</translation>
     </message>
     <message>
         <source>By &apos;Z&apos;-code</source>
-        <translation type="unfinished"></translation>
+        <translation>Par code &apos;Z&apos;</translation>
     </message>
     <message>
         <source>By &apos;S&apos;-code</source>
-        <translation type="unfinished"></translation>
+        <translation>Par code &apos;S&apos;</translation>
     </message>
     <message>
         <source>Grayscale segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Segments en niveaux de gris</translation>
     </message>
     <message>
         <source>V-sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisation verticale (V-sync)</translation>
     </message>
     <message>
         <source>Start point:</source>
-        <translation>Origine:</translation>
+        <translation>Origine :</translation>
     </message>
     <message>
         <source>End point:</source>
-        <translation>Point final:</translation>
+        <translation>Point final :</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>Texte:</translation>
+        <translation>Texte :</translation>
     </message>
     <message>
         <source>Tool:</source>
-        <translation>Outil:</translation>
+        <translation>Outil :</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle :</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourcis</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Comande</translation>
+        <translation>Commande</translation>
     </message>
     <message>
         <source>User interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface utilisateur</translation>
     </message>
     <message>
         <source>pt</source>
@@ -1299,43 +1302,43 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">8</translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished">10</translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished">11</translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished">12</translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>Font size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de police :</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue :</translation>
     </message>
     <message>
         <source>(restart needed)</source>
-        <translation>(Redémarrage nécessaire)</translation>
+        <translation>(redémarrage nécessaire)</translation>
     </message>
     <message>
         <source>Set to defaults</source>
-        <translation>Paramètres par default</translation>
+        <translation>Valeurs par défaut</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1343,124 +1346,125 @@ Temps écoulé: %1</translation>
     </message>
     <message>
         <source>Reset settings to default values?</source>
-        <translation>Réinitialiser les réglages par défaut?</translation>
+        <translation>Réinitialiser les réglages par défaut ?</translation>
     </message>
     <message>
         <source>Invert slider controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverser les curseurs</translation>
     </message>
     <message>
         <source>250000</source>
-        <translation type="unfinished"></translation>
+        <translation>250000</translation>
     </message>
     <message>
         <source>Panel width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largeur du panneau :</translation>
     </message>
     <message>
         <source>(average char width)</source>
-        <translation type="unfinished"></translation>
+        <translation>(largeur de caractère moyenne)</translation>
     </message>
     <message>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <source>Enable axis &apos;A&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l&apos;axe &apos;A&apos;</translation>
     </message>
     <message>
         <source>direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>sens :</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Ouvrir</translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <source>Shortcut files (*.sc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers de raccourcis (*.sc)</translation>
     </message>
     <message>
         <source>Serial</source>
-        <translation type="unfinished"></translation>
+        <translation>Série</translation>
     </message>
     <message>
         <source>Telnet</source>
-        <translation type="unfinished"></translation>
+        <translation>Telnet</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse :</translation>
     </message>
     <message>
         <source>Arc approximation
 segment size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille des segments
+d&apos;approximation des arcs :</translation>
     </message>
     <message>
         <source>By length</source>
-        <translation type="unfinished"></translation>
+        <translation>Par longueur</translation>
     </message>
     <message>
         <source>By angle (deg.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Par angle (deg.)</translation>
     </message>
     <message>
         <source>WebSocket</source>
-        <translation type="unfinished"></translation>
+        <translation>WebSocket</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL :</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode :</translation>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binaire</translation>
     </message>
     <message>
         <source>0.1, 1, 10, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>0.1, 1, 10, ...</translation>
     </message>
     <message>
         <source>Jog steps:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de déplacement :</translation>
     </message>
     <message>
         <source>1, 10, 100, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>1, 10, 100, ...</translation>
     </message>
     <message>
         <source>Jog feeds:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesses de déplacement :</translation>
     </message>
     <message>
         <source>Machine information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations machine</translation>
     </message>
     <message>
         <source>Reset machine on connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser la machine à la connexion</translation>
     </message>
     <message>
         <source>Theme:</source>
@@ -1512,15 +1516,15 @@ segment size:</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grille</translation>
     </message>
     <message>
         <source>Primary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Principale :</translation>
     </message>
     <message>
         <source>Secondary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondaire :</translation>
     </message>
 </context>
 </TS>
