@@ -55,7 +55,7 @@ int main(int argc, char *argv[])
     installFileLogHandler();
 
     QSettings set;
-    QString locale = set.value("General/language", "en").toString();
+    QString locale = set.value("General/language", "fr").toString();
 
     loadTranslationsForLocale(locale, a);
 
