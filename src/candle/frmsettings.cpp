@@ -966,7 +966,7 @@ void frmSettings::setDefaultSettings()
     setFontSize(9);
     setPanelWidth(40);
 
-    setTheme(ThemeSystem);
+    setTheme(ThemeDark);
     ui->clpPaletteWindow->setColor(QColor(240, 240, 240));
     ui->clpPaletteWindowText->setColor(QColor(0, 0, 0));
     ui->clpPaletteBase->setColor(QColor(255, 255, 255));
