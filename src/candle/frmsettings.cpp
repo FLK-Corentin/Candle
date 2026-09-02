@@ -1011,7 +1011,7 @@ void frmSettings::setDefaultSettings()
     ui->chkToolChangePause->setChecked(false);
     ui->chkToolChangeUseCommands->setChecked(false);
     ui->chkToolChangeUseCommandsConfirm->setChecked(false);
-    setLanguage("en");
+    setLanguage("fr");
 }
 
 void frmSettings::on_cboTheme_currentIndexChanged(int index)
