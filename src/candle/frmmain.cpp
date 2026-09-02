@@ -3683,7 +3683,7 @@ void frmMain::restoreSettings()
     if (set->childKeys().size()) {
         m_settings->setFontSize(set->value("fontSize", 9).toInt());
         m_settings->setPanelWidth(set->value("panelWidth", 40).toInt());
-        m_settings->setTheme(set->value("theme", ThemeSystem).toInt());
+        m_settings->setTheme(set->value("theme", ThemeDark).toInt());
         m_settings->setConnectionType((ConnectionType)set->value("connectionType").toInt());
         m_settings->setPort(set->value("port").toString());
         m_settings->setBaud(set->value("baud", 115200).toInt());
