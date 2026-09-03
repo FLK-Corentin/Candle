@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+
+  <Package
+      Name="Candle (Version Fablab en Kit)"
+      Manufacturer="Fablab en Kit"
+      Version="1.0.0"
+      Language="1036"
+      UpgradeCode="4A987E9B-B0EB-48B7-8C48-50DBED5A1C3F"
+      Scope="perMachine"
+      InstallerVersion="500">
+
+    <!-- Installation dans Program Files -->
+    <StandardDirectory Id="ProgramFiles64Folder">
+      <Directory Id="INSTALLFOLDER" Name="Candle - Fablab en Kit">
+
+        <!--
+          Tous les fichiers de la version portable :
+          EXE, DLL Qt, traductions, plugins, etc.
+        -->
+        <Files Include="$(AppSource)\**" />
+
+      </Directory>
+    </StandardDirectory>
+
+
+    <!-- Raccourci dans le menu Démarrer -->
+    <StandardDirectory Id="ProgramMenuFolder">
+
+      <Component
+          Id="StartMenuShortcutComponent"
+          Guid="A24DEFD1-0B5F-46AF-A12F-ED857809FF7F">
+
+        <Shortcut
+            Id="CandleStartMenuShortcut"
+            Name="Candle - Fablab en Kit"
+            Description="Pilotage CNC GRBL - Version Fablab en Kit"
+            Target="[INSTALLFOLDER]candle.exe"
+            WorkingDirectory="INSTALLFOLDER" />
+
+        <RegistryValue
+            Root="HKLM"
+            Key="Software\Fablab en Kit\Candle"
+            Name="Installed"
+            Type="integer"
+            Value="1"
+            KeyPath="yes" />
+
+      </Component>
+
+    </StandardDirectory>
+
+
+    <!-- Icône dans Applications installées -->
+    <Icon
+        Id="ProductIcon"
+        SourceFile="$(IconSource)" />
+
+    <Property
+        Id="ARPPRODUCTICON"
+        Value="ProductIcon" />
+
+    <!-- Évite de proposer une réparation inutile -->
+    <Property
+        Id="ARPNOREPAIR"
+        Value="1" />
+
+
+    <!-- Gestion des futures mises à jour -->
+    <MajorUpgrade
+        DowngradeErrorMessage="Une version plus récente de Candle - Fablab en Kit est déjà installée." />
+
+  </Package>
+
+</Wix>
