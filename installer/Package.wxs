@@ -71,6 +71,9 @@
     <MajorUpgrade
         DowngradeErrorMessage="Une version plus récente de Candle - Fablab en Kit est déjà installée." />
 
-  </Package>
+
+    <MediaTemplate EmbedCab="yes" />
+ 
+</Package>
 
 </Wix>
