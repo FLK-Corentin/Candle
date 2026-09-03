@@ -49,7 +49,7 @@ int main(int argc, char *argv[])
 
     a.setOrganizationName(APP_NAME);
     a.setApplicationName(APP_NAME);
-    a.setApplicationDisplayName(APP_NAME);
+    a.setApplicationDisplayName(QString("%1 (Version Fablab en Kit)").arg(APP_NAME));
     a.setApplicationVersion(APP_VERSION);
 
     installFileLogHandler();
