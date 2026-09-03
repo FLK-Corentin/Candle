@@ -71,6 +71,27 @@ jobs:
     - name: Install
       run: cmake --install ${{github.workspace}}/build --config ${{env.BUILD_TYPE}}
 
+    - name: Add license
+      shell: pwsh
+      run: |
+        Copy-Item "${{github.workspace}}\LICENSE" "${{github.workspace}}\build\Candle\LICENSE.txt"
+
+    - name: Install WiX Toolset
+      shell: pwsh
+      run: |
+        dotnet tool install --global wix --version 5.0.2
+
+    - name: Build MSI
+      shell: pwsh
+      run: |
+        New-Item -ItemType Directory -Force -Path "${{github.workspace}}\dist"
+
+        wix build "${{github.workspace}}\installer\Package.wxs" `
+          -arch x64 `
+          -d "AppSource=${{github.workspace}}\build\Candle" `
+          -d "IconSource=${{github.workspace}}\src\candle\images\candle.ico" `
+          -o "${{github.workspace}}\dist\Candle-Fablab-en-Kit-1.0.0-x64.msi"
+
     - name: Create archive
       run: |
         Compress-Archive -Path ${{github.workspace}}/build/Candle -DestinationPath candle.zip
@@ -80,3 +101,9 @@ jobs:
       with:
         name: Candle-${{ github.sha }}
         path: ${{github.workspace}}/candle.zip
+
+    - name: Upload MSI
+      uses: actions/upload-artifact@v4
+      with:
+        name: Candle-Fablab-en-Kit-MSI
+        path: ${{github.workspace}}/dist/Candle-Fablab-en-Kit-1.0.0-x64.msi
